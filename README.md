@@ -196,7 +196,7 @@ If you encounter build issues with the SQLite driver, you may need to:
 
 ## License
 
-[Specify your license here]
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Dependencies
 
